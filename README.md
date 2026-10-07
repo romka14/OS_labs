@@ -14,4 +14,4 @@ gcc -Wall -Wextra -o child.exe child.c
 
 gcc -Wall -Wextra -o parent.exe parent.c
 
-parent.exe
+./parent.exe
